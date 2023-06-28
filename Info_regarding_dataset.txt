@@ -1,0 +1,2 @@
+The dataset is available on kaggle.
+Link : "https://www.kaggle.com/datasets/aryansingh0909/indian-political-party-tweets-daily-updated"
